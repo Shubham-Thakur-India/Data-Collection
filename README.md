@@ -1,2 +1,3 @@
-# Text-Scrapping
-We will work on reading, cleaning and making sense of text.
+# Data-Collection
+
+Collecting data from various sources.
